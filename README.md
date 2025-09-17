@@ -29,6 +29,3 @@ All core game assets – characters, weapons, and skins – are minted as **NFTs
 
 - **Blockchain**: [Sui](https://sui.io/)  
 - **Smart Contracts**: Move (Sui Move edition)  
-- **NFT Standard**: Custom struct + Sui framework objects  
-- **Frontend (planned)**: React / Next.js + Sui Wallet Kit  
-- **Storage**: On-chain metadata & optional IPFS/Arweave integration  
