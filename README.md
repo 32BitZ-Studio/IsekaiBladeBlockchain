@@ -1,5 +1,6 @@
 # Isekai Blade ⚔️  
 *An NFT GameFi project built on the Sui blockchain*  
+<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/067daa36-3590-4aa2-8555-f81bbb93218a" />
 
 Isekai Blade is a **GameFi project** where players summon heroes, forge weapons, and battle across multiverse realms.  
 All core game assets – characters, weapons, and skins – are minted as **NFTs on Sui**, ensuring true digital ownership, transparency, and interoperability.  
